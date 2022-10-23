@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "name": "Mockingbird",
+    "photo": [
+      "./gallery/mockingbird-1.jpg",
+      "./gallery/mockingbird-2.jpg",
+      "./gallery/mockingbird-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["gray", "white", "black"],
+    "description": "If you’ve been hearing an endless string of 10 or 15 different birds singing outside your house, you might have a Northern Mockingbird in your yard. These slender-bodied gray birds apparently pour all their color into their personalities. They sing almost endlessly, even sometimes at night, and they flagrantly harass birds that intrude on their territories, flying slowly around them or prancing toward them, legs extended, flaunting their bright white wing patches.",
+    "thumb": "./thumbs/mockingbird.jpg",
+    "audio": "./audio/mockingbird.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Red-Bellied Woodpecker",
+    "photo": [
+      "./gallery/redbelliedwoodpecker-1.jpg",
+      "./gallery/redbelliedwoodpecker-2.jpg",
+      "./gallery/redbelliedwoodpecker-3.jpg"
+    ],
+    "type": "tree-clinging",
+    "color": ["gray", "white", "red"],
+    "description": "Red-bellied Woodpeckers are pale, medium-sized woodpeckers common in forests of the East. Their strikingly barred backs and gleaming red caps make them an unforgettable sight – just resist the temptation to call them Red-headed Woodpeckers, a somewhat rarer species that's mostly black on the back with big white wing patches. Learn the Red-bellied's rolling call and you’ll notice these birds everywhere.",
+    "thumb": "./thumbs/redbelliedwoodpecker.jpg",
+    "audio": "./audio/redbelliedwoodpecker.mp3"
+  },
+  {
+    "id": 3,
+    "name": "Blue Jay",
+    "photo": [
+      "./gallery/bluejay-1.jpg",
+      "./gallery/bluejay-2.jpg",
+      "./gallery/bluejay-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "white", "blue"],
+    "description": "This common, large songbird is familiar to many people, with its perky crest; blue, white, and black plumage; and noisy calls. Blue Jays are known for their intelligence and complex social systems with tight family bonds. Their fondness for acorns is credited with helping spread oak trees after the last glacial period.",
+    "thumb": "./thumbs/bluejay.jpg",
+    "audio": "./audio/bluejay.mp3"
+  },
+  {
+    "id": 4,
+    "name": "Red-Winged Blackbird",
+    "photo": [
+      "./gallery/rwblackbird-1.jpg",
+      "./gallery/rwblackbird-2.jpg",
+      "./gallery/rwblackbird-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["red", "black", "orange"],
+    "description": "One of the most abundant birds across North America, and one of the most boldly colored, the Red-winged Blackbird is a familiar sight atop cattails, along soggy roadsides, and on telephone wires. Glossy-black males have scarlet-and-yellow shoulder patches they can puff up or hide depending on how confident they feel. Females are a subdued, streaky brown, almost like a large, dark sparrow. Their early and tumbling song are happy indications of the return of spring.",
+    "thumb": "./thumbs/rwbb.jpg",
+    "audio": "./audio/redwingedblackbird.mp3"
+  },
+  {
+    "id": 5,
+    "name": "Palm Warbler",
+    "photo": [
+      "./gallery/palmwarbler-1.jpg",
+      "./gallery/palmwarbler-2.jpg",
+      "./gallery/palmwarbler-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["yellow", "brown"],
+    "description": "A warbler that doesn’t act like one, the Palm Warbler spends its time walking on the ground, wagging its tail up and down. This brownish-olive bird has a bright rusty cap and a bold pale eyebrow stripe. They breed mainly in Canada’s boreal forest, but most people see them during migration or on wintering grounds foraging in open areas. You may see two forms: an eastern subspecies that’s bright yellow below, and a more western subspecies with a pale belly.",
+    "thumb": "./thumbs/palmwarbler.jpg",
+    "audio": "./audio/palmwarbler.mp3"
+  },
+  {
+    "id": 6,
+    "name": "Brown Thrasher",
+    "photo": [
+      "./gallery/brownthrasher-1.jpg",
+      "./gallery/brownthrasher-2.jpg",
+      "./gallery/brownthrasher-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["brown", "white", "black"],
+    "description": "It can be tricky to glimpse a Brown Thrasher in a tangled mass of shrubbery, and once you do you may wonder how such a boldly patterned, gangly bird could stay so hidden. Brown Thrashers wear a somewhat severe expression thanks to their heavy, slightly downcurved bill and staring yellow eyes, and they are the only thrasher species east of Texas. Brown Thrashers are exuberant singers, with one of the largest repertoires of any North American songbird.",
+    "thumb": "./thumbs/brownthrasher.jpg",
+    "audio": "./audio/brownthrasher.mp3"
+  },
+  {
+    "id": 7,
+    "name": "Tufted Titmouse",
+    "photo": [
+      "./gallery/tuftedtitmouse-1.jpg",
+      "./gallery/tuftedtitmouse-2.jpg",
+      "./gallery/tuftedtitmouse-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "gray", "white", "orange"],
+    "description": "A little gray bird with an echoing voice, the Tufted Titmouse is common in eastern deciduous forests and a frequent visitor to feeders. The large black eyes, small, round bill, and brushy crest gives these birds a quiet but eager expression that matches the way they flit through canopies, hang from twig-ends, and drop in to bird feeders. When a titmouse finds a large seed, you’ll see it carry the prize to a perch and crack it with sharp whacks of its stout bill.",
+    "thumb": "./thumbs/tuftedtitmouse.jpg",
+    "audio": "./audio/tuftedtitmouse.mp3"
+  },
+  {
+    "id": 8,
+    "name": "Northern Cardinal",
+    "photo": [
+      "./gallery/cardinal-1.jpg",
+      "./gallery/cardinal-2.jpg",
+      "./gallery/cardinal-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["red", "black", "orange"],
+    "description": "The male Northern Cardinal is perhaps responsible for getting more people to open up a field guide than any other bird. They’re a perfect combination of familiarity, conspicuousness, and style: a shade of red you can’t take your eyes off. Even the brown females sport a sharp crest and warm red accents. Cardinals don’t migrate and they don’t molt into a dull plumage, so they’re still breathtaking in winter’s snowy backyards. In summer, their sweet whistles are one of the first sounds of the morning.",
+    "thumb": "./thumbs/cardinal.jpg",
+    "audio": "./audio/cardinal.mp3"
+  },
+  {
+    "id": 9,
+    "name": "Ruby Throated Hummingbird",
+    "photo": [
+      "./gallery/rthummingbird-1.jpg",
+      "./gallery/rthummingbird-2.jpg",
+      "./gallery/rthummingbird-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["green", "red", "white"],
+    "description": "A flash of green and red, the Ruby-throated Hummingbird is eastern North America’s sole breeding hummingbird. These brilliant, tiny, precision-flying creatures glitter like jewels in the full sun, then vanish with a zip toward the next nectar source. Feeders and flower gardens are great ways to attract these birds, and some people turn their yards into buzzing clouds of hummingbirds each summer. Enjoy them while they’re around; by early fall they’re bound for Central America, with many crossing the Gulf of Mexico in a single flight.",
+    "thumb": "./thumbs/rth.jpg",
+    "audio": "./audio/rthummingbird.mp3"
+  },
+  {
+    "id": 10,
+    "name": "American Goldfinch",
+    "photo": [
+      "./gallery/americangoldfinch-1.jpg",
+      "./gallery/americangoldfinch-2.jpg",
+      "./gallery/americangoldfinch-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["yellow", "black", "white"],
+    "description": "This handsome little finch, the state bird of New Jersey, Iowa, and Washington, is welcome and common at feeders, where it takes primarily sunflower and nyjer. Goldfinches often flock with Pine Siskins and Common Redpolls. Spring males are brilliant yellow and shiny black with a bit of white. Females and all winter birds are more dull but identifiable by their conical bill; pointed, notched tail; wingbars; and lack of streaking. During molts they look bizarrely patchy.",
+    "thumb": "./thumbs/americangoldfinch.jpg",
+    "audio": "./audio/americangoldfinch.mp3"
+  },
+  {
+    "id": 11,
+    "name": "Common Grackle",
+    "photo": [
+      "./gallery/commongrackle-1.jpg",
+      "./gallery/commongrackle-2.jpg",
+      "./gallery/commongrackle-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "purple", "blue"],
+    "description": "Common Grackles are blackbirds that look like they've been slightly stretched. They're taller and longer tailed than a typical blackbird, with a longer, more tapered bill and glossy-iridescent bodies. Grackles walk around lawns and fields on their long legs or gather in noisy groups high in trees, typically evergreens. They eat many crops (notably corn) and nearly anything else as well, including garbage. In flight their long tails trail behind them, sometimes folded down the middle into a shallow V shape.",
+    "thumb": "./thumbs/commongrackle.jpg",
+    "audio": "./audio/commongrackle.mp3"
+  },
+  {
+    "id": 12,
+    "name": "Boat Tailed Grackle",
+    "photo": [
+      "./gallery/btgrackle-1.jpg",
+      "./gallery/btgrackle-2.jpg",
+      "./gallery/btgrackle-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "blue", "purple"],
+    "description": "When you smell saltwater on the East Coast, it’s time to look out for Boat-tailed Grackles. The glossy blue-black males are hard to miss as they haul their ridiculously long tails around or display from marsh grasses or telephone wires. The rich, dark-brown females are half the size of males and look almost like a different species. Boat-tailed Grackles take advantage of human activity along our increasingly developed coast, scavenging trash and hanging out in busy urban areas away from predators.",
+    "thumb": "./thumbs/btgrackle.jpg",
+    "audio": "./audio/btgrackle.mp3"
+  },
+  {
+    "id": 13,
+    "name": "House Finch",
+    "photo": [
+      "./gallery/housefinch-1.jpg",
+      "./gallery/housefinch-2.jpg",
+      "./gallery/housefinch-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "white", "red"],
+    "description": "The House Finch is a recent introduction from western into eastern North America (and Hawaii), but it has received a warmer reception than other arrivals like the European Starling and House Sparrow. That’s partly due to the cheerful red head and breast of males, and to the bird’s long, twittering song, which can now be heard in most of the neighborhoods of the continent. If you haven’t seen one recently, chances are you can find one at the next bird feeder you come across.",
+    "thumb": "./thumbs/housefinch.jpg",
+    "audio": "./audio/housefinch.mp3"
+  },
+  {
+    "id": 14,
+    "name": "Downy Woodpecker",
+    "photo": [
+      "./gallery/downywoodpecker-1.jpg",
+      "./gallery/downywoodpecker-2.jpg",
+      "./gallery/downywoodpecker-3.jpg"
+    ],
+    "type": "tree-clinging",
+    "color": ["red", "white", "black"],
+    "description": "The active little Downy Woodpecker is a familiar sight at backyard feeders and in parks and woodlots, where it joins flocks of chickadees and nuthatches, barely outsizing them. An often acrobatic forager, this black-and-white woodpecker is at home on tiny branches or balancing on slender plant galls, sycamore seed balls, and suet feeders. Downies and their larger lookalike, the Hairy Woodpecker, are one of the first identification challenges that beginning bird watchers master.",
+    "thumb": "./thumbs/downywoodpecker.jpg",
+    "audio": "./audio/downywoodpecker.mp3"
+  },
+  {
+    "id": 15,
+    "name": "Yellow-Rumped Warbler",
+    "photo": [
+      "./gallery/yellowrumpedwarbler-1.jpg",
+      "./gallery/yellowrumpedwarbler-2.jpg",
+      "./gallery/yellowrumpedwarbler-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["yellow", "gray", "white", "brown"],
+    "description": "Yellow-rumped Warblers are impressive in the sheer numbers with which they flood the continent each fall. Shrubs and trees fill with the streaky brown-and-yellow birds and their distinctive, sharp chips. Though the color palette is subdued all winter, you owe it to yourself to seek these birds out on their spring migration or on their breeding grounds. Spring molt brings a transformation, leaving them a dazzling mix of bright yellow, charcoal gray and black, and bold white.",
+    "thumb": "./thumbs/yellowrumpedwarbler.jpg",
+    "audio": "./audio/yrwarbler.mp3"
+  },
+  {
+    "id": 16,
+    "name": "American Crow",
+    "photo": [
+      "./gallery/crow-1.jpg",
+      "./gallery/crow-2.jpg",
+      "./gallery/crow-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "gray"],
+    "description": "American Crows are familiar over much of the continent: large, intelligent, all-black birds with hoarse, cawing voices. They are common sights in treetops, fields, and roadsides, and in habitats ranging from open woods and empty beaches to town centers. They usually feed on the ground and eat almost anything—typically earthworms, insects and other small animals, seeds, and fruit; also garbage, carrion, and chicks they rob from nests. Their flight style is unique, a patient, methodical flapping that is rarely broken up with glides.",
+    "thumb": "./thumbs/crow.jpg",
+    "audio": "./audio/crow.mp3"
+  },
+  {
+    "id": 17,
+    "name": "Gray Catbird",
+    "photo": [
+      "./gallery/graycatbird-1.jpg",
+      "./gallery/graycatbird-2.jpg",
+      "./gallery/graycatbird-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["gray"],
+    "description": "If you’re convinced you’ll never be able to learn bird calls, start with the Gray Catbird. Once you’ve heard its catty mew you won’t forget it. Follow the sound into thickets and vine tangles and you’ll be rewarded by a somber gray bird with a black cap and bright rusty feathers under the tail. Gray Catbirds are relatives of mockingbirds and thrashers, and they share that group’s vocal abilities, copying the sounds of other species and stringing them together to make their own song.",
+    "thumb": "./thumbs/graycatbird.jpg",
+    "audio": "./audio/graycatbird.mp3"
+  },
+  {
+    "id": 18,
+    "name": "Carolina Wren",
+    "photo": [
+      "./gallery/carolinawren-1.jpg",
+      "./gallery/carolinawren-2.jpg",
+      "./gallery/carolinawren-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["brown", "white"],
+    "description": "In summer it can seem that every patch of woods in the eastern United States rings with the rolling song of the Carolina Wren. This shy bird can be hard to see, but it delivers an amazing number of decibels for its size. Follow its teakettle-teakettle! and other piercing exclamations through backyard or forest, and you may be rewarded with glimpses of this bird's rich cinnamon plumage, white eyebrow stripe, and long, upward-cocked tail. This hardy bird has been wintering farther and farther north in recent decades.",
+    "thumb": "./thumbs/carolinawren.jpg",
+    "audio": "./audio/carolinawren.mp3"
+  },
+  {
+    "id": 19,
+    "name": "Mourning Dove",
+    "photo": [
+      "./gallery/mourningdove-1.jpg",
+      "./gallery/mourningdove-2.jpg",
+      "./gallery/mourningdove-3.jpg"
+    ],
+    "type": "pigeon-like",
+    "color": ["gray", "black"],
+    "description": "A graceful, slender-tailed, small-headed dove that’s common across the continent. Mourning Doves perch on telephone wires and forage for seeds on the ground; their flight is fast and bullet straight. Their soft, drawn-out calls sound like laments. When taking off, their wings make a sharp whistling or whinnying. Mourning Doves are the most frequently hunted species in North America.",
+    "thumb": "./thumbs/mourningdove.jpg",
+    "audio": "./audio/mourningdove.mp3"
+  },
+  {
+    "id": 20,
+    "name": "Eurasian Collared Dove",
+    "photo": [
+      "./gallery/ecdove-1.jpg",
+      "./gallery/ecdove-2.jpg",
+      "./gallery/ecdove-3.jpg"
+    ],
+    "type": "pigeon-like",
+    "color": ["gray", "black"],
+    "description": "With a flash of white tail feathers and a flurry of dark-tipped wings, the Eurasian Collared-Dove settles onto phone wires and fence posts to give its rhythmic three-parted coo. This chunky relative of the Mourning Dove gets its name from the black half-collar at the nape of the neck. A few Eurasian Collared-Doves were introduced to the Bahamas in the 1970s. They made their way to Florida by the 1980s and then rapidly colonized most of North America.",
+    "thumb": "./thumbs/ecdove.jpg",
+    "audio": "./audio/ecdove.mp3"
+  },
+  {
+    "id": 21,
+    "name": "Painted Bunting",
+    "photo": [
+      "./gallery/ptbunting-1.jpg",
+      "./gallery/ptbunting-2.jpg",
+      "./gallery/ptbunting-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["red", "blue", "green"],
+    "description": "With their vivid fusion of blue, green, yellow, and red, male Painted Buntings seem to have flown straight out of a child’s coloring book. Females and immatures are a distinctive bright green with a pale eyering. These fairly common songbirds breed in the coastal Southeast and in the south-central U.S., where they often come to feeders. They are often caught and sold illegally as cage birds, particularly in Mexico and the Caribbean, a practice that puts pressure on their breeding populations.",
+    "thumb": "./thumbs/paintedbunting.jpg",
+    "audio": "./audio/paintedbunting.mp3"
+  },
+  {
+    "id": 22,
+    "name": "Eastern Phoebe",
+    "photo": [
+      "./gallery/easternphoebe-1.jpg",
+      "./gallery/easternphoebe-2.jpg",
+      "./gallery/easternphoebe-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "gray", "white"],
+    "description": "One of our most familiar eastern flycatchers, the Eastern Phoebe’s raspy “phoebe” call is a frequent sound around yards and farms in spring and summer. These brown-and-white songbirds sit upright and wag their tails from prominent, low perches. They typically place their mud-and-grass nests in protected nooks on bridges, barns, and houses, which adds to the species’ familiarity to humans. Hardy birds, Eastern Phoebes winter farther north than most other flycatchers and are one of the earliest returning migrants in spring.",
+    "thumb": "./thumbs/easternphoebe.jpg",
+    "audio": "./audio/easternphoebe.mp3"
+  },
+  {
+    "id": 23,
+    "name": "Black Capped Chickadee",
+    "photo": [
+      "./gallery/bcchickadee-1.jpg",
+      "./gallery/bcchickadee-2.jpg",
+      "./gallery/bcchickadee-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["black", "gray", "white"],
+    "description": "A bird almost universally considered “cute” thanks to its oversized round head, tiny body, and curiosity about everything, including humans. The chickadee’s black cap and bib; white cheeks; gray back, wings, and tail; and whitish underside with buffy sides are distinctive. Its habit of investigating people and everything else in its home territory, and quickness to discover bird feeders, make it one of the first birds most people learn.",
+    "thumb": "./thumbs/bcchickadee.jpg",
+    "audio": "./audio/bcchickadee.mp3"
+  },
+  {
+    "id": 24,
+    "name": "Pine Warbler",
+    "photo": [
+      "./gallery/pinewarbler-1.jpg",
+      "./gallery/pinewarbler-2.jpg",
+      "./gallery/pinewarbler-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["gray", "white", "yellow"],
+    "description": "A bird true to its name, the Pine Warbler is common in many eastern pine forests and is rarely seen away from pines. These yellowish warblers are hard to spot as they move along high branches to prod clumps of needles with their sturdy bills. If you don’t see them, listen for their steady, musical trill, which sounds very like a Chipping Sparrow or Dark-eyed Junco, which are also common piney-woods sounds through much of the year.",
+    "thumb": "./thumbs/pinewarbler.jpg",
+    "audio": "./audio/pinewarbler.mp3"
+  },
+  {
+    "id": 25,
+    "name": "American Robin",
+    "photo": [
+      "./gallery/americanrobin-1.jpg",
+      "./gallery/americanrobin-2.jpg",
+      "./gallery/americanrobin-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["gray", "black", "orange"],
+    "description": "The quintessential early bird, American Robins are common sights on lawns across North America, where you often see them tugging earthworms out of the ground. Robins are popular birds for their warm orange breast, cheery song, and early appearance at the end of winter. Though they’re familiar town and city birds, American Robins are at home in wilder areas, too, including mountain forests and Alaskan wilderness.",
+    "thumb": "./thumbs/americanrobin.jpg",
+    "audio": "./audio/americanrobin.mp3"
+  },
+  {
+    "id": 26,
+    "name": "Scrub Jay",
+    "photo": [
+      "./gallery/scrubjay-1.jpg",
+      "./gallery/scrubjay-2.jpg",
+      "./gallery/scrubjay-3.jpg"
+    ],
+    "type": "perching",
+    "color": ["blue", "white"],
+    "description": "The round-headed, blue and gray Florida Scrub-Jay is the only bird species that lives exclusively in Florida, where it occurs in patches of low-growing scrub oak in sandy soils. It perches tall with its long tail hanging down or boldly hops on the ground burying acorns. This social bird forms extended family groups: the young from previous years help their parents at subsequent nests until they can get a territory of their own. Extensive development and habitat fragmentation in Florida threaten this bird’s already small population, placing it on the federal endangered species list.",
+    "thumb": "./thumbs/scrubjay.jpg",
+    "audio": "./audio/scrubjay.mp3"
+  },
+  {
+    "id": 27,
+    "name": "Pileated Woodpecker",
+    "photo": [
+      "./gallery/pileatedwoodpecker-1.jpg",
+      "./gallery/pileatedwoodpecker-2.jpg",
+      "./gallery/pileatedwoodpecker-3.jpg"
+    ],
+    "type": "tree-clinging",
+    "color": ["red", "white", "black"],
+    "description": "The Pileated Woodpecker is one of the biggest, most striking forest birds on the continent. It’s nearly the size of a crow, black with bold white stripes down the neck and a flaming-red crest. Look (and listen) for Pileated Woodpeckers whacking at dead trees and fallen logs in search of their main prey, carpenter ants, leaving unique rectangular holes in the wood. The nest holes these birds make offer crucial shelter to many species including swifts, owls, ducks, bats, and pine martens.",
+    "thumb": "./thumbs/pileatedwoodpecker.jpg",
+    "audio": "./audio/pileatedwoodpecker.mp3"
+  },
+  {
+    "id": 28,
+    "name": "Rock Pigeon",
+    "photo": [
+      "./gallery/rockpigeon-1.jpg",
+      "./gallery/rockpigeon-2.jpg",
+      "./gallery/rockpigeon-3.jpg"
+    ],
+    "type": "pigeon-like",
+    "color": ["gray", "black", "blue", "purple"],
+    "description": "A common sight in cities around the world, Rock Pigeons crowd streets and public squares, living on discarded food and offerings of birdseed. In addition to the typical blue-gray bird with two dark wingbars, you'll often see flocks with plain, spotted, pale, or rusty-red birds in them. Introduced to North America from Europe in the early 1600s, city pigeons nest on buildings and window ledges. In the countryside they also nest on barns and grain towers, under bridges, and on natural cliffs.",
+    "thumb": "./thumbs/rockpigeon.jpg",
+    "audio": "./audio/rockpigeon.mp3"
+  }
+]
